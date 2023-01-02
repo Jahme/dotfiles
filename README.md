@@ -20,6 +20,7 @@ LSP - Autocompletion - Snippets
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - Completion source: path
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet engine for Neovim written in Lua
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - Completion source: LuaSnip
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - Autopair symbols
 
 Fuzzy Finder
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Highly extendable fuzzy finder over lists
