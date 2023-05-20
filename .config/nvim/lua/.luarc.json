@@ -1,4 +1,15 @@
 {
-    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
-    "Lua.workspace.checkThirdParty": false
+    "workspace.library": [
+        "/home/jahme/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/tmp/.mount_nvimC7IfsO/usr/share/nvim/runtime/lua",
+        "/home/jahme/.local/share/nvim/lazy/neodev.nvim/lua",
+        "/home/jahme/.local/share/nvim/lazy/fidget.nvim/lua",
+        "/home/jahme/.local/share/nvim/lazy/mason-lspconfig.nvim/lua",
+        "/home/jahme/.local/share/nvim/lazy/lazy.nvim/lua",
+        "/home/jahme/.local/share/nvim/lazy/nvim-lspconfig/lua",
+        "/home/jahme/.local/share/nvim/lazy/mason.nvim/lua",
+        "/home/jahme/.local/share/nvim/lazy/cmp-nvim-lsp/lua",
+        "/home/jahme/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ]
 }
