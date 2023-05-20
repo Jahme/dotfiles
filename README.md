@@ -3,7 +3,7 @@ A collection of configurations across my workspaces
 
 ## neovim
 
-Requires [Neovim](https://neovim.io/) (>= v0.8)
+Requires [Neovim](https://neovim.io/) (>= v0.9)
 
 Package Manager - Packer
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - Lazy plugin manager for Neovim
