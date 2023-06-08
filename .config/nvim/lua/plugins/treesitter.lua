@@ -9,7 +9,7 @@ return {
       if (not status) then return end
 
       tsconfig.setup({
-        ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "python", "javascript" },
+        ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "python", "javascript", "markdown" },
 
         -- Install parsers synchronously (only applied to `ensure_installed`)
         sync_install = false,
