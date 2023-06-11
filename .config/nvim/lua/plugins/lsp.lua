@@ -6,7 +6,7 @@ return {
     { 'williamboman/mason.nvim', config = true },
     'williamboman/mason-lspconfig.nvim',
     'glepnir/lspsaga.nvim',
-    {'j-hui/fidget.nvim', opts = {}},
+    {'j-hui/fidget.nvim', tag = 'legacy', opts = {}}, -- Temporary Legacy as fidget.nvim is updated.
     'folke/neodev.nvim',
   },
   config = function()
