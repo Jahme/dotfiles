@@ -97,7 +97,7 @@ return {
                 ["s"] = fb_actions.toggle_all,
               },
             },
-          },
+          }, -- Add More after this
         }
       }
 
@@ -111,6 +111,7 @@ return {
       vim.keymap.set('n', 'gr', builtin.lsp_references, {})
 
       telescope.load_extension("file_browser")
+      telescope.load_extension("harpoon")
     end
   },
   {
